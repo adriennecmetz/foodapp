@@ -75,7 +75,7 @@ Users can browse the available restaurants, select dishes, add them to their sho
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please help me complete this project.
 
 ## Authors
 
@@ -86,9 +86,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Thanks to Strapi for providing an excellent backend.
-- Thanks to Next.js for the solid frontend framework.
-- Thanks to Stripe for secure and efficient payment processing.
