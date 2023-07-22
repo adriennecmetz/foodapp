@@ -1,4 +1,4 @@
-# FoodApp: A Restaurant Delivery App
+# FoodApp: Chaallenge. I can't ... help me if you can!
 
 This project serves as a complete example of a full-stack application developed with a Next.js frontend, Strapi backend, and integrated Stripe payment. You can use it as a starting point for building your own similar applications or simply as a learning project to get familiar with these technologies.
 
